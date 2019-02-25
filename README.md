@@ -92,8 +92,8 @@ H
 * himlsakra
 * hňup
 * homokláda
-* honit
 * honek
+* honit
 * hořet koudel u prdele
 * hovado
 * hovno
