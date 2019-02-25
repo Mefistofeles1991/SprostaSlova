@@ -121,6 +121,7 @@ K
 * kulibrk
 * kulatina
 * kunda
+* kundolízek
 * kunďák
 * kuřbuřt
 * kurevník
@@ -133,6 +134,7 @@ K
 
 M
 * magor
+* mamrd
 * mindža
 * mlít hovna
 * mrd
@@ -191,7 +193,7 @@ P
 * průser
 * pták
 
-R
+Ř
 * řiťopich
 
 S
