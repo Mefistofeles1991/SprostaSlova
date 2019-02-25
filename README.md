@@ -1,6 +1,15 @@
 # Seznam sprostých slov pro účely výběru odpustků
 
-Odsouhlasená sprostá slova a výrazy:
+## Pravidla
+
+1. __sprosté slovo__ každý den za 1,-Kč do kasičky, za každé jednotlivé vyřčení onoho slova...
+1. __zakázané slovo__ - 5,-Kč pokuta v korunách do kasičky za každé vyřčení onoho slova....
+
+## Zakázané slovo:
+
+* 26.2.2019 - Oběd
+
+## Odsouhlasená sprostá slova a výrazy:
 
 A
 * akcizák
