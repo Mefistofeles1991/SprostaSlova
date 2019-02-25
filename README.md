@@ -93,13 +93,13 @@ H
 * hňup
 * homokláda
 * honit
+* honek
 * hořet koudel u prdele
 * hovado
 * hovno
 * hovnocuc
 * huba
 * hulibrk
-* Honek
 
 I
 * idiot
