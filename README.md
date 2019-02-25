@@ -5,8 +5,8 @@ Odsouhlasená sprostá slova a výrazy:
 * ty vole
 
 A
-akcizák
-ambažúra
+* akcizák
+* ambažúra
 B
 babák
 bastard
