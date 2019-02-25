@@ -2,8 +2,6 @@
 
 Odsouhlasená sprostá slova a výrazy:
 
-* ty vole
-
 A
 * akcizák
 * ambažúra
@@ -194,6 +192,7 @@ V
 * vychcaný
 * vyjebat
 * vysrat
+* vole
 Z
 * zajebaný
 * zasraný
