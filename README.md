@@ -193,7 +193,8 @@ V
 * vyjebat
 * vysrat
 * vole
-Z
+
+* Z
 * zajebaný
 * zasraný
 * zasrat
