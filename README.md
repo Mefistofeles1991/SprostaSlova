@@ -5,6 +5,7 @@ Odsouhlasená sprostá slova a výrazy:
 A
 * akcizák
 * ambažúra
+
 B
 * babák
 * bastard
@@ -26,6 +27,7 @@ B
 * buzík
 * buzna
 * být putna
+
 C
 * chcanec
 * chcaní
@@ -43,6 +45,7 @@ C
 * čúrák
 * čůrák
 * cyp
+
 D
 * debil
 * debilka
@@ -64,10 +67,13 @@ D
 * držka
 * dutý
 * dylina
+
 F
 * flus
+
 G
 * grázl
+
 H
 * hajzl
 * hajzlbába
@@ -84,13 +90,16 @@ H
 * hovnocuc
 * huba
 * hulibrk
+
 I
 * idiot
 * imbecil
+
 J
 * jako kdybys to vytáhl krávě z prdele
 * jebačka
 * jebat
+
 K
 * kláda
 * kokot
@@ -110,6 +119,7 @@ K
 * kurvit
 * kurvit se
 * kurvítko
+
 M
 * magor
 * mindža
@@ -122,12 +132,14 @@ M
 * mrdna
 * mrdník
 * mrdnout
+
 N
 * na hovno
 * na pyču
 * nasraný
 * nasrat
 * negr
+
 O
 * obšoustník
 * ocas
@@ -137,6 +149,7 @@ O
 * omrdat
 * oprcat
 * ožrala
+
 P
 * pasák
 * péro
@@ -166,8 +179,10 @@ P
 * prkno
 * průser
 * pták
+
 R
 * řiťopich
+
 S
 * ser
 * šoustat
@@ -185,6 +200,7 @@ S
 * šulda
 * šulin
 * šulín
+
 V
 * v piči
 * viks
@@ -194,7 +210,7 @@ V
 * vysrat
 * vole
 
-* Z
+Z
 * zajebaný
 * zasraný
 * zasrat
