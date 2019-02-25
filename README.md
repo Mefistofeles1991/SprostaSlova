@@ -118,6 +118,7 @@ K
 * kretén
 * kripl
 * ksindl
+* kulibrk
 * kulatina
 * kunda
 * kunďák
