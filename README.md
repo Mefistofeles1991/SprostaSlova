@@ -101,6 +101,10 @@ H
 * huba
 * hulibrk
 
+CH
+* chcípák
+
+
 I
 * idiot
 * imbecil
